@@ -36,5 +36,3 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
-## Contact:
-If you have any questions, please email Angela Dai at adai@cs.stanford.edu.
